@@ -1,4 +1,4 @@
-package day_34_practice.deviceTask.deviceTask;
+package day_34_practice.deviceTask;
 
 public class Samsung extends Phone implements Downloadable, AndroidApps {
 

@@ -1,4 +1,4 @@
-package day_34_practice.deviceTask.deviceTask;
+package day_34_practice.deviceTask;
 
 public abstract class Phone extends Device {
 

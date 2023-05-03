@@ -1,16 +1,16 @@
-package day_34_practice.deviceTask.deviceTask;
+package day_34_practice.deviceTask;
 
 public class DeviceShop {
 
     public static void main(String[] args) {
 
-            day_34_practice.deviceTask.Iphone iphone = new Iphone("Apple", "Iphone 14 Pro Max","Large",1000,"White",true,true);
+            Iphone iphone = new Iphone("Apple", "Iphone 14 Pro Max","Large",1000,"White",true,true);
 
             Samsung samsung = new Samsung("Samsung","Galaxy S22","Medium",1120,"Black",true,true);
 
             Computer computer = new Computer("Dell", "Alien","Large",2500,"Black",false,true);
 
-            day_34_practice.deviceTask.Google google = new Google("Google","Google Pixel","Medium",1250,"Black",true,true);
+            Google google = new Google("Google","Google Pixel","Medium",1250,"Black",true,true);
 
             Laptop laptop = new Laptop("Dell", "Inspiron","Medium", 1200,"Black",true,true );
 

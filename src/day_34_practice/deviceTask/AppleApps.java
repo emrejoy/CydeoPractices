@@ -1,6 +1,6 @@
-package day_34_practice.deviceTask.deviceTask;
+package day_34_practice.deviceTask;
 
-public interface AppleApps extends Downloadable {
+public interface AppleApps extends Downloadable{
 
     String appStoreName = "App Store";
     String OS = "IOS";

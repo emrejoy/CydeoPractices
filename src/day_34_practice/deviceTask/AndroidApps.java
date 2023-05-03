@@ -1,6 +1,6 @@
-package day_34_practice.deviceTask.deviceTask;
+package day_34_practice.deviceTask;
 
-public interface AndroidApps extends Downloadable {
+public interface AndroidApps extends Downloadable{
 
     String appStoreName = "Google Store";
     String OS = "Android";
