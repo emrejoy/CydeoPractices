@@ -1,7 +1,5 @@
 package day_34_practice.deviceTask.deviceTask;
 
-import day_34_practice.deviceTask.Device;
-
 public class Computer extends Device {
 
     public Computer(String brand, String model, String size, double price, String color, boolean hasBattery, boolean hasPowerButton) {

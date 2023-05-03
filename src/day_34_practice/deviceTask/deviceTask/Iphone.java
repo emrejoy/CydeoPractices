@@ -1,9 +1,5 @@
 package day_34_practice.deviceTask.deviceTask;
 
-import day_34_practice.deviceTask.AppleApps;
-import day_34_practice.deviceTask.Downloadable;
-import day_34_practice.deviceTask.Phone;
-
 public class Iphone extends Phone implements Downloadable, AppleApps {
 
 

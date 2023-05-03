@@ -1,8 +1,5 @@
 package day_34_practice.deviceTask.deviceTask;
 
-import day_34_practice.deviceTask.Google;
-import day_34_practice.deviceTask.Iphone;
-
 public class DeviceShop {
 
     public static void main(String[] args) {

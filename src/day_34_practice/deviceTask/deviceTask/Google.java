@@ -1,9 +1,5 @@
 package day_34_practice.deviceTask.deviceTask;
 
-import day_34_practice.deviceTask.AndroidApps;
-import day_34_practice.deviceTask.Downloadable;
-import day_34_practice.deviceTask.Phone;
-
 public class Google extends Phone implements Downloadable, AndroidApps {
 
     public Google(String brand, String model, String size, double price, String color, boolean hasBattery, boolean hasPowerButton) {

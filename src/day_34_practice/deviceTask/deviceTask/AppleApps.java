@@ -1,7 +1,5 @@
 package day_34_practice.deviceTask.deviceTask;
 
-import day_34_practice.deviceTask.Downloadable;
-
 public interface AppleApps extends Downloadable {
 
     String appStoreName = "App Store";

@@ -1,7 +1,5 @@
 package day_34_practice.deviceTask.deviceTask;
 
-import day_34_practice.deviceTask.Device;
-
 public abstract class Phone extends Device {
 
 
