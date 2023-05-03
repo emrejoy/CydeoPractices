@@ -1,4 +1,4 @@
-package day_34_practice.deviceTask;
+package day_34_practice.device_Task;
 
 public class PersonalComputer extends Computer {
 
